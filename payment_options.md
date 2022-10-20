@@ -1,5 +1,5 @@
 # Coffehut Payment Options
-. Credit Card
-. Debit Card
-. Net banking
-. UPI
+	. Credit Card
+	. Debit Card
+	. Net banking
+	. UPI
